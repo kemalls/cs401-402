@@ -1,0 +1,14 @@
+{"time":"2025-03-09T19:38:35.551394+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/kemaltas/projects/SPDPvCNN/wandb/offline-run-20250309_193834-7w8lcpew/logs/debug-core.log"}
+{"time":"2025-03-09T19:38:35.759602+03:00","level":"INFO","msg":"created new stream","id":"7w8lcpew"}
+{"time":"2025-03-09T19:38:35.759685+03:00","level":"INFO","msg":"stream: started","id":"7w8lcpew"}
+{"time":"2025-03-09T19:38:35.759723+03:00","level":"INFO","msg":"handler: started","stream_id":"7w8lcpew"}
+{"time":"2025-03-09T19:38:35.759732+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"7w8lcpew"}
+{"time":"2025-03-09T19:38:35.75976+03:00","level":"INFO","msg":"sender: started","stream_id":"7w8lcpew"}
+{"time":"2025-03-09T19:38:35.762989+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T19:53:20.134406+03:00","level":"INFO","msg":"stream: closing","id":"7w8lcpew"}
+{"time":"2025-03-09T19:53:20.135418+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T19:53:20.144781+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T19:53:20.14576+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7w8lcpew"}
+{"time":"2025-03-09T19:53:20.145886+03:00","level":"INFO","msg":"handler: closed","stream_id":"7w8lcpew"}
+{"time":"2025-03-09T19:53:20.145983+03:00","level":"INFO","msg":"sender: closed","stream_id":"7w8lcpew"}
+{"time":"2025-03-09T19:53:20.145995+03:00","level":"INFO","msg":"stream: closed","id":"7w8lcpew"}

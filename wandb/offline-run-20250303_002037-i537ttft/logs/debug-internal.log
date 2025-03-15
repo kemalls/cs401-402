@@ -1,0 +1,14 @@
+{"time":"2025-03-03T00:20:37.900111+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/kemaltas/projects/SPDPvCNN/wandb/offline-run-20250303_002037-i537ttft/logs/debug-core.log"}
+{"time":"2025-03-03T00:20:38.006147+03:00","level":"INFO","msg":"created new stream","id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.006199+03:00","level":"INFO","msg":"stream: started","id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.006217+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.006268+03:00","level":"INFO","msg":"sender: started","stream_id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.006576+03:00","level":"INFO","msg":"handler: started","stream_id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.008757+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-03T00:20:38.140663+03:00","level":"INFO","msg":"stream: closing","id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.140703+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-03T00:20:38.141044+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-03T00:20:38.14161+03:00","level":"INFO","msg":"handler: closed","stream_id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.141676+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.141684+03:00","level":"INFO","msg":"sender: closed","stream_id":"i537ttft"}
+{"time":"2025-03-03T00:20:38.141758+03:00","level":"INFO","msg":"stream: closed","id":"i537ttft"}

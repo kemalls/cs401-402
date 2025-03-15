@@ -1,0 +1,14 @@
+{"time":"2025-03-10T15:51:42.564431+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/kemaltas/projects/SPDPvCNN/wandb/offline-run-20250310_155142-oid09jrm/logs/debug-core.log"}
+{"time":"2025-03-10T15:51:42.672213+03:00","level":"INFO","msg":"created new stream","id":"oid09jrm"}
+{"time":"2025-03-10T15:51:42.672263+03:00","level":"INFO","msg":"stream: started","id":"oid09jrm"}
+{"time":"2025-03-10T15:51:42.672299+03:00","level":"INFO","msg":"handler: started","stream_id":"oid09jrm"}
+{"time":"2025-03-10T15:51:42.672709+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"oid09jrm"}
+{"time":"2025-03-10T15:51:42.672758+03:00","level":"INFO","msg":"sender: started","stream_id":"oid09jrm"}
+{"time":"2025-03-10T15:51:42.676573+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T15:59:37.495822+03:00","level":"INFO","msg":"stream: closing","id":"oid09jrm"}
+{"time":"2025-03-10T15:59:37.497047+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T15:59:37.50048+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T15:59:37.501354+03:00","level":"INFO","msg":"handler: closed","stream_id":"oid09jrm"}
+{"time":"2025-03-10T15:59:37.501125+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oid09jrm"}
+{"time":"2025-03-10T15:59:37.501421+03:00","level":"INFO","msg":"sender: closed","stream_id":"oid09jrm"}
+{"time":"2025-03-10T15:59:37.501539+03:00","level":"INFO","msg":"stream: closed","id":"oid09jrm"}

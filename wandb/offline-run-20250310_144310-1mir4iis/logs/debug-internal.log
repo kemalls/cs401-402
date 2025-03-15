@@ -1,0 +1,14 @@
+{"time":"2025-03-10T14:43:10.95504+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/kemaltas/projects/SPDPvCNN/wandb/offline-run-20250310_144310-1mir4iis/logs/debug-core.log"}
+{"time":"2025-03-10T14:43:11.062056+03:00","level":"INFO","msg":"created new stream","id":"1mir4iis"}
+{"time":"2025-03-10T14:43:11.062108+03:00","level":"INFO","msg":"stream: started","id":"1mir4iis"}
+{"time":"2025-03-10T14:43:11.06212+03:00","level":"INFO","msg":"sender: started","stream_id":"1mir4iis"}
+{"time":"2025-03-10T14:43:11.062116+03:00","level":"INFO","msg":"handler: started","stream_id":"1mir4iis"}
+{"time":"2025-03-10T14:43:11.062164+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"1mir4iis"}
+{"time":"2025-03-10T14:43:11.064854+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T14:57:52.75433+03:00","level":"INFO","msg":"stream: closing","id":"1mir4iis"}
+{"time":"2025-03-10T14:57:52.755204+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T14:57:52.758402+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T14:57:52.759416+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1mir4iis"}
+{"time":"2025-03-10T14:57:52.759571+03:00","level":"INFO","msg":"handler: closed","stream_id":"1mir4iis"}
+{"time":"2025-03-10T14:57:52.759691+03:00","level":"INFO","msg":"sender: closed","stream_id":"1mir4iis"}
+{"time":"2025-03-10T14:57:52.760007+03:00","level":"INFO","msg":"stream: closed","id":"1mir4iis"}

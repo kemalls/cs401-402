@@ -1,0 +1,14 @@
+{"time":"2025-03-03T00:09:35.276753+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/kemaltas/projects/SPDPvCNN/wandb/offline-run-20250303_000934-lcm8myfs/logs/debug-core.log"}
+{"time":"2025-03-03T00:09:35.586049+03:00","level":"INFO","msg":"created new stream","id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.586111+03:00","level":"INFO","msg":"stream: started","id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.586225+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.586255+03:00","level":"INFO","msg":"sender: started","stream_id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.586269+03:00","level":"INFO","msg":"handler: started","stream_id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.589672+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-03T00:09:35.669178+03:00","level":"INFO","msg":"stream: closing","id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.669211+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-03T00:09:35.669548+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-03T00:09:35.66963+03:00","level":"INFO","msg":"handler: closed","stream_id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.669639+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.66965+03:00","level":"INFO","msg":"sender: closed","stream_id":"lcm8myfs"}
+{"time":"2025-03-03T00:09:35.669692+03:00","level":"INFO","msg":"stream: closed","id":"lcm8myfs"}

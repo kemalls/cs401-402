@@ -1,0 +1,1 @@
+{"format": "keras", "nodes": [{"name": "functional", "id": "functional", "class_name": "Functional", "output_shape": [null, 3], "num_parameters": 11165891}], "edges": []}
